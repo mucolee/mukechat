@@ -1,2 +1,22 @@
 # mukechat
-A chatGPT client application based on python and pyqt5一个基于python和pyqt5的chatGPT客户端应用程序
+
+#### 介绍
+一个基于python和pyqt5的ChatGPT客户端应用程序，MukeChat会给你不一样的Ai使用体验！
+
+#### 软件架构
+MukeChat基于c/s架构，志在为广大用户提供稳定可靠的ChatGPT客户端，让用户使用ChatGPT接口更便捷高效！
+
+
+
+#### 安装教程
+
+1.  dist文件夹是项目打包成的exe文件及配置文件
+2.  您不需要安装，如果您只是单纯的用户，除dist文件外的东西您都可丢弃
+
+#### 使用说明
+
+1.  在中国大陆地区你需要通过架设虚拟专用网络（vpn科学上网）才可以访问到OpenAi的服务器
+2.  当主窗口聚焦时你可以通过ait+k快捷键打开密钥配置窗口配置密钥
+3.  密钥输入完后，您需要点击确定退出，否则密钥不会配置成功
+
+
