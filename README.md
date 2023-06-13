@@ -23,7 +23,7 @@ MukeChat is based on c/s architecture, aiming to provide users with stable, reli
 
 #### Instructions for use
 
-1. When the main window is in focus you can use the ait+k shortcut to open the key configuration window to configure the key
+1. When the main window is in focus you can use the alt+k shortcut to open the key configuration window to configure the key
 
 2. After entering the key, confirm to exit
 
