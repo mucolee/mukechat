@@ -10,18 +10,18 @@ MukeChat is based on c/s architecture, aiming to provide users with stable, reli
 
 > Main interface effect
 
-<img src="https://gitee.com/mukexinni/mukechat/raw/master/image/%E6%95%88%E6%9E%9C%E5%9B%BE.png" style="zoom: 45%;" />
+<img src="https://github.com/mucolee/mukechat/blob/main/image/%E6%95%88%E6%9E%9C%E5%9B%BE.png?raw=true" style="zoom: 45%;" />
 
 > Set interface effects
 
-<img src="https://gitee.com/mukexinni/mukechat/raw/master/image/效果2.png" alt style="zoom:45%;" />
+<img src="https://github.com/mucolee/mukechat/blob/main/image/%E6%95%88%E6%9E%9C2.png?raw=true" alt style="zoom:45%;" />
 
-#### 安装教程
+#### Installation Tutorial
 
 1.  The latest version of the Windows platform package  [MukecChat0.0.3.6.2.zip](https://gitee.com/mukexinni/mukechat/releases/download/MukecChat0.0.3.6.2/MukecChat0.0.3.6.2%20for%20window.zip)
 2.  Unzip Click the exe file to run it
 
-#### 使用说明
+#### Instructions for use
 
 1. When the main window is in focus you can use the ait+k shortcut to open the key configuration window to configure the key
 
@@ -35,6 +35,6 @@ MukeChat is based on c/s architecture, aiming to provide users with stable, reli
 
 If you like this project, you can star and follow me to follow the updates of the project, or you can buy me a cup of coffee!
 
-![](https://gitee.com/mukexinni/mukechat/raw/master/MukecChat0.0.3.6.2/MukeChat/mukechat_file/QR_code.png)
+![](https://github.com/mucolee/mukechat/blob/main/MukecChat0.0.3.6.2/MukeChat/mukechat_file/QR_code.png?raw=true)
 
 > Your support is my greatest motivation
